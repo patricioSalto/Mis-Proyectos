@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ABM_TP.Models.VariacionModel>
+
+<h2>Lista de variaciones</h2>
+
+<p>
+    @Html.ActionLink("Craer Variacion", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Tamanio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Stock)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Precio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Id_color)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Id_producto)
+        </th>
+
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tamanio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Stock)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Precio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Id_color)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Id_producto)
+        </td>
+
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id = item.Id })
+        </td>
+    </tr>
+}
+
+</table>

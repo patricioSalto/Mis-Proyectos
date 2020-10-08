@@ -1,0 +1,56 @@
+﻿@model ABM_TP.Models.VariacionModel
+
+@{
+    ViewBag.Title = "Eliminar variacion";
+}
+
+<h2>Delete</h2>
+
+<h3>Estas seguro que queres eliminarlo?</h3>
+<div>
+    <h4>Variacion:</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Tamanio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tamanio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Stock)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stock)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+        <dd>
+            @Html.DisplayFor(model => model.Id_color)
+        </dd>
+
+        <dd>
+            @Html.DisplayFor(model => model.Id_producto)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-default" /> |
+            @Html.ActionLink("Volver a inicio", "Index")
+        </div>
+    }
+</div>

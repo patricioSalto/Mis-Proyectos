@@ -1,0 +1,412 @@
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\ApplicationInsights.config
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\ABM_TP.dll.config
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\ABM_TP.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\ABM_TP.pdb
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\csc.exe
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\csc.exe.config
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\csc.rsp
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\csi.exe
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\csi.exe.config
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\csi.rsp
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.AppContext.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Console.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\vbc.exe
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\vbc.exe.config
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\vbc.rsp
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Antlr3.Runtime.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\BouncyCastle.Crypto.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Google.Protobuf.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.AI.Web.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\MySql.Data.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Newtonsoft.Json.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.Helpers.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.Mvc.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.Optimization.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.Razor.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.WebPages.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\WebGrease.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Google.Protobuf.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\MySql.Data.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.Helpers.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.Mvc.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.Optimization.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.Razor.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.WebPages.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Newtonsoft.Json.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Antlr3.Runtime.pdb
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.AI.Web.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\obj\Debug\ABM_TP.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\obj\Debug\ABM_TP.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\obj\Debug\ABM_TP.csproj.CopyComplete
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\obj\Debug\ABM_TP.dll
+C:\Users\Alumno\source\repos\ABM_TP\ABM_TP\obj\Debug\ABM_TP.pdb
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\ApplicationInsights.config
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\ABM_TP.dll.config
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\ABM_TP.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\ABM_TP.pdb
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\csc.exe
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\csc.exe.config
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\csc.rsp
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\csi.exe
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\csi.exe.config
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\csi.rsp
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.AppContext.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Console.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\vbc.exe
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\vbc.exe.config
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\vbc.rsp
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Antlr3.Runtime.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\BouncyCastle.Crypto.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Google.Protobuf.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.Web.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\MySql.Data.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Newtonsoft.Json.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.Helpers.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.Mvc.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.Optimization.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.Razor.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.WebPages.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\WebGrease.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Google.Protobuf.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\MySql.Data.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.Helpers.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.Mvc.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.Optimization.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.Razor.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.WebPages.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Newtonsoft.Json.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Antlr3.Runtime.pdb
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.Web.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.Razor.resources.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\obj\Debug\ABM_TP.csproj.CoreCompileInputs.cache
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\obj\Debug\ABM_TP.csproj.CopyComplete
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\obj\Debug\ABM_TP.dll
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\obj\Debug\ABM_TP.pdb
+C:\Users\Patricio\Downloads\ABM_TP\ABM_TP\obj\Debug\ABM_TP.csprojAssemblyReference.cache
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\ApplicationInsights.config
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\ABM_TP.dll.config
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\ABM_TP.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\ABM_TP.pdb
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\csc.exe
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\csc.exe.config
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\csc.rsp
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\csi.exe
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\csi.exe.config
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\csi.rsp
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.AppContext.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Console.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\vbc.exe
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\vbc.exe.config
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\vbc.rsp
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Antlr3.Runtime.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\BouncyCastle.Crypto.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Google.Protobuf.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.Web.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\MySql.Data.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Newtonsoft.Json.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.Helpers.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.Mvc.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.Optimization.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.Razor.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.WebPages.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\WebGrease.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Google.Protobuf.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\MySql.Data.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.Helpers.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.Mvc.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.Optimization.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.Razor.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.WebPages.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Newtonsoft.Json.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Antlr3.Runtime.pdb
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.AI.Web.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\obj\Debug\ABM_TP.csprojAssemblyReference.cache
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\obj\Debug\ABM_TP.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\obj\Debug\ABM_TP.csproj.CopyComplete
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\obj\Debug\ABM_TP.dll
+C:\Users\Alumno\Downloads\ABM_TP\ABM_TP\obj\Debug\ABM_TP.pdb
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\ApplicationInsights.config
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\ABM_TP.dll.config
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\ABM_TP.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\ABM_TP.pdb
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\csc.exe
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\csc.exe.config
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\csc.rsp
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\csi.exe
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\csi.exe.config
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\csi.rsp
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.AppContext.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Console.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\vbc.exe
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\vbc.exe.config
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\vbc.rsp
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Antlr3.Runtime.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\BouncyCastle.Crypto.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Google.Protobuf.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.AI.Web.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\MySql.Data.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Newtonsoft.Json.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.Helpers.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.Mvc.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.Optimization.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.Razor.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.WebPages.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\WebGrease.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Google.Protobuf.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\MySql.Data.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.Helpers.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.Mvc.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.Optimization.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.Razor.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.WebPages.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Newtonsoft.Json.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Antlr3.Runtime.pdb
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.AI.Web.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\es\System.Web.Razor.resources.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\obj\Debug\ABM_TP.csprojAssemblyReference.cache
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\obj\Debug\ABM_TP.csproj.CoreCompileInputs.cache
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\obj\Debug\ABM_TP.csproj.CopyComplete
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\obj\Debug\ABM_TP.dll
+C:\Users\Patricio\Downloads\Entrega Final\ABM_TP\ABM_TP\obj\Debug\ABM_TP.pdb
